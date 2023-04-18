@@ -122,6 +122,8 @@ public class SubHunter extends Activity {
                 (verticalTouched * blockSize)+ blockSize,
                 paint );
 
+
+
         // Re-size the text appropriate for the
         // score and distance text
         paint.setTextSize(blockSize * 2);
